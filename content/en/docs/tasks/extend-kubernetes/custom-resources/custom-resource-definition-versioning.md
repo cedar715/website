@@ -115,7 +115,7 @@ spec:
   group: example.com
   # list of versions supported by this CustomResourceDefinition
   versions:
-  - name: v1beta1
+  - name: v1
     # Each version can be enabled/disabled by Served flag.
     served: true
     # One and only one version must be marked as the storage version.
